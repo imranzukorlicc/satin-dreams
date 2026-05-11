@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Bambolino — katalog luksuznih ženskih satenskih pidžama. Pregledajte modele i dostupne veličine." />
+
+  <title>Bambolino — Katalog Satenskih Pidžama</title>
+
+  <!-- Google Fonts: Cormorant Garamond (serif display) + Lato (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Lato:wght@300;400;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Stilovi aplikacije -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- =====================
+       HEADER — navigacija
+       ===================== -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+
+      <!-- Logo -->
+      <a href="#" class="logo" aria-label="Bambolino — početna stranica">
+        <span class="logo-main">Bambolino</span>
+        <span class="logo-sub">Luxury Sleepwear</span>
+      </a>
+
+      <!-- Tagline (sakriva se na mobilu) -->
+      <p class="header-tagline">Kolekcija · 2025</p>
+
+    </div>
+  </header>
+
+
+  <!-- =====================
+       HERO sekcija
+       ===================== -->
+  <section class="hero" aria-label="Uvodni tekst kataloga">
+
+    <p class="hero-eyebrow" aria-hidden="true">Nova kolekcija</p>
+
+    <h1 class="hero-title">
+      Satenska <em>elegancija</em><br />za svaku noć
+    </h1>
+
+    <p class="hero-subtitle">
+      Otkrijte naš izbor luksuznih satenskih pidžama — 
+      mekih tkanina, ženstvenih kroja i bezvremenskog stila.
+    </p>
+
+  </section>
+
+
+  <!-- =====================
+       KATALOG sekcija
+       ===================== -->
+  <main class="catalog-section" id="katalog" role="main">
+
+    <!-- Ukrasni divider -->
+    <div class="divider" aria-hidden="true">
+      <span class="divider-line"></span>
+      <span class="divider-diamond"></span>
+      <span class="divider-line"></span>
+    </div>
+
+    <!-- Loading stanje — vidljivo dok se JSON učitava -->
+    <div class="loading-state" id="loadingState" role="status" aria-live="polite">
+      <div class="loader-ring" aria-hidden="true"></div>
+      <p class="loading-text">Učitavanje kolekcije…</p>
+    </div>
+
+    <!-- Error stanje — vidljivo ako fetch ne uspije -->
+    <div class="error-state hidden" id="errorState" role="alert">
+      <p class="error-icon" aria-hidden="true">✦</p>
+      <p class="error-message" id="errorMessage">Nije moguće učitati proizvode.</p>
+    </div>
+
+    <!-- Grid kartica — dinamički punjeno iz script.js -->
+    <div
+      class="products-grid"
+      id="productsGrid"
+      role="list"
+      aria-label="Katalog pidžama"
+    ></div>
+
+  </main>
+
+
+  <!-- =====================
+       FOOTER
+       ===================== -->
+  <footer class="site-footer" role="contentinfo">
+    <p class="footer-text">
+      &copy; 2025 <strong>Satin Dreams</strong> &mdash; Sve veličine su orijentacione.
+    </p>
+  </footer>
+
+
+  <!-- JavaScript aplikacije -->
+  <script src="script.js"></script>
+
+</body>
+</html>
