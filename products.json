@@ -33,14 +33,6 @@
   },
   {
     "id": 5,
-    "naziv": "Victoria's Secret Pidzama Pink",
-    "opis": "Victoria's Secret pink satenska pidzama sa pojasom",
-    "velicine": ["S"],
-    "boja": "#f5f0e8",
-    "slika": "9C7F5C03-EAB1-4DCF-BC29-C36624D7B2AB.JPG"
-  },
-  {
-    "id": 6,
     "naziv": "Coccolaris Pidzama Tigar Print",
     "opis": "Coccolaris pink satenska pidzama sa tigar printom i dugim nogavicama",
     "velicine": [ "XL"],
@@ -48,7 +40,7 @@
     "slika": "IMG_3597.JPG"
   },
   {
-    "id": 7,
+    "id": 6,
     "naziv": "Victoria's Secret Pidzama Roze prugice",
     "opis": "Victoria's Secret roze satenska pidzama sa prugicama i pojasom",
     "velicine": [ "L"],
@@ -56,7 +48,7 @@
     "slika": "IMG_3612.JPG"
   },
   {
-    "id": 8,
+    "id": 7,
     "naziv": "Victoria's Secret Pidzama Roze prugice",
     "opis": "Victoria's Secret roze satenska pidzama sa prugicama BEZ pojasom",
     "velicine": [ "L"],
@@ -64,7 +56,7 @@
     "slika": "IMG_1531.JPG"
   },
   {
-    "id": 9,
+    "id": 8,
     "naziv": "Coccolaris Pidzama Crna",
     "opis": "Coccolaris crna satenska pidzama sa printom ruža",
     "velicine": [ "S", "M", "XL"],
@@ -72,7 +64,7 @@
     "slika": "IMG_3617.JPG"
   },
   {
-    "id": 10,
+    "id": 9,
     "naziv": "Coccolaris Pidzama Teget",
     "opis": "Coccolaris teget satenska pidzama sa printom ruža",
     "velicine": [ "S", "L", "XL"],
@@ -80,7 +72,7 @@
     "slika": "IMG_1432.JPG"
   },  
   {
-    "id": 11,
+    "id": 10,
     "naziv": "Victoria's Secret Pidzama Pink prugice",
     "opis": "Victoria's Secret pink satenska pidzama sa prugicama",
     "velicine": [ "M", "XL"],
@@ -88,7 +80,7 @@
     "slika": "IMG_1526.JPG"
   },
   {
-    "id": 12,
+    "id": 11,
     "naziv": "Victoria's Secret Pidzama Bež",
     "opis": "Victoria's Secret Bež satenska pidzama sa pojasom",
     "velicine": [ "S"],
