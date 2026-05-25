@@ -1,7 +1,7 @@
 [
   {
     "id": 12,
-    "naziv": "Teget VS - kratka",
+    "naziv": "Victoria's Secret Pidzama teget",
     "opis": "Victoria's Secret teget pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#1f2a44",
@@ -9,7 +9,7 @@
   },
   {
     "id": 13,
-    "naziv": "Bordo VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Bordo",
     "opis": "Victoria's Secret bordo pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#6d1f2f",
@@ -17,7 +17,7 @@
   },
   {
     "id": 14,
-    "naziv": "Baby plava VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Baby Plava",
     "opis": "Victoria's Secret baby plava pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#b7d7f2",
@@ -25,7 +25,7 @@
   },
   {
     "id": 15,
-    "naziv": "Baby roze VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Baby Roze",
     "opis": "Victoria's Secret baby roze pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f7c6d9",
@@ -33,7 +33,7 @@
   },
   {
     "id": 16,
-    "naziv": "Crna VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Crna",
     "opis": "Victoria's Secret crna pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#000000",
@@ -41,7 +41,7 @@
   },
   {
     "id": 17,
-    "naziv": "Crvena VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Crvena",
     "opis": "Victoria's Secret crvena pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#c1121f",
@@ -49,7 +49,7 @@
   },
   {
     "id": 18,
-    "naziv": "Crna POJAS VS",
+    "naziv": "Victoria's Secret Pidzama Crna POJAS",
     "opis": "Victoria's Secret crna satenska pidžama sa pojasom",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#111111",
@@ -57,23 +57,23 @@
   },
   {
     "id": 19,
-    "naziv": "Ombre CCL braon - kratka",
-    "opis": "Ombre CCL braon pidžama kratkog modela",
+    "naziv": "Armani Satenska Pidzama Ombre",
+    "opis": "Armani satenska pidzama braon kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#8b5e3c",
     "slika": "IMG_1520.JPG"
   },
   {
     "id": 20,
-    "naziv": "LV sarena - duga nogavica",
-    "opis": "LV šarena pidžama sa dugim nogavicama",
+    "naziv": "Louis Vuitton Pidzama Šarena",
+    "opis": "Louis Vuitton šarena pidžama sa dugim nogavicama",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#c49b66",
     "slika": "IMG_1520.JPG"
   },
   {
     "id": 21,
-    "naziv": "Andjeo VS - kratka",
+    "naziv": "Victoria's Secret Pidzama Andjeo",
     "opis": "Victoria's Secret anđeo pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f4f1ea",
@@ -81,23 +81,23 @@
   },
   {
     "id": 22,
-    "naziv": "Roze prugice POJAS - kratka",
-    "opis": "Roze prugasta pidžama sa pojasom kratkog modela",
+    "naziv": "Armani Satenska Pidzama Roze prugice",
+    "opis": "Armani satenske pidžame u dezenu roze prugice sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f3b6c6",
     "slika": "IMG_1520.JPG"
   },
   {
     "id": 23,
-    "naziv": "Crne prugice POJAS - kratka",
-    "opis": "Crna prugasta pidžama sa pojasom kratkog modela",
+    "naziv": "Armani Satenska Pidzama Crne prugice",
+    "opis": "Armani crne prugaste pidžame sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#2b2b2b",
     "slika": "IMG_1520.JPG"
   },
   {
     "id": 24,
-    "naziv": "Pink VS POJAS - kratka",
+    "naziv": "Victoria's Secret Pidzama Pink",
     "opis": "Victoria's Secret pink pidžama sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#ff4fa3",
@@ -105,7 +105,7 @@
   },
   {
     "id": 25,
-    "naziv": "Bijela VS POJAS - kratka",
+    "naziv": "Victoria's Secret Pidzama Bijela",
     "opis": "Victoria's Secret bijela pidžama sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#ffffff",
@@ -113,8 +113,8 @@
   },
   {
     "id": 1,
-    "naziv": "Satenska Pidzama Papagaji",
-    "opis": "Pink satenska pidzama sa detaljima papgaji",
+    "naziv": "Armani Satenska Pidzama Papagaji",
+    "opis": "Pink Armani satenska pidzama sa detaljima papgaji",
     "velicine": [ "S", "M", "L", "XL"],
     "boja": "#1a1a2e",
     "slika": "IMG_3581.jpeg"
