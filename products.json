@@ -129,24 +129,24 @@
   },
   {
     "id": 3,
-    "naziv": "Coccolaris Pidzama Pastelna Duga",
-    "opis": "Coccolaris Satenska Pidzama u boji pastelna duga sa dugim nogavicama",
+    "naziv": "Armani Satenska Pidzama Pastelna Duga",
+    "opis": "Armani Satenska Satenska Pidzama u boji pastelna duga sa dugim nogavicama",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f5f0e8",
     "slika": "ed985cf5-ff8c-4242-b99c-37f7ebbc7291.JPG"
   },
   {
     "id": 4,
-    "naziv": "Coccolaris Pidzama Baby Plava",
-    "opis": "Coccolaris Satenska Pidzama u boji Baby plava sa dugim nogavicama",
+    "naziv": "Armani Satenska Pidzama Baby Plava",
+    "opis": "Armani Satenska Satenska Pidzama u boji Baby plava sa dugim nogavicama",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f5f0e8",
     "slika": "e21ced96-4fe0-4a30-80ed-5485c2674505.JPG"
   },
   {
     "id": 5,
-    "naziv": "Coccolaris Pidzama Tigar Print",
-    "opis": "Coccolaris pink satenska pidzama sa tigar printom i dugim nogavicama",
+    "naziv": "Armani Satenska Pidzama Tigar Print",
+    "opis": "Armani Satenska pink satenska pidzama sa tigar printom i dugim nogavicama",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f5f0e8",
     "slika": "IMG_3597.JPG"
@@ -169,16 +169,16 @@
   },
   {
     "id": 8,
-    "naziv": "Coccolaris Pidzama Crna",
-    "opis": "Coccolaris crna satenska pidzama sa printom ruža",
+    "naziv": "Armani Satenska Pidzama Crna",
+    "opis": "Armani Satenska crna satenska pidzama sa printom ruža",
     "velicine": [ "S", "M", "L", "XL"],
     "boja": "#f5f0e8",
     "slika": "IMG_3617.JPG"
   },
   {
     "id": 9,
-    "naziv": "Coccolaris Pidzama Teget",
-    "opis": "Coccolaris teget satenska pidzama sa printom ruža",
+    "naziv": "Armani Satenska Pidzama Teget",
+    "opis": "Armani Satenska teget satenska pidzama sa printom ruža",
     "velicine": [ "S", "M", "L", "XL"],
     "boja": "#f5f0e8",
     "slika": "IMG_1432.JPG"
