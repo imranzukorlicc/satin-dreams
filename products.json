@@ -5,7 +5,7 @@
     "opis": "Victoria's Secret teget pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#1f2a44",
-    "slika": "IMG_1520.JPG"
+    "slika": "teget2.JPG"
   },
   {
     "id": 13,
@@ -13,7 +13,7 @@
     "opis": "Victoria's Secret bordo pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#6d1f2f",
-    "slika": "IMG_1520.JPG"
+    "slika": "bordo2.JPG"
   },
   {
     "id": 14,
@@ -21,7 +21,7 @@
     "opis": "Victoria's Secret baby plava pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#b7d7f2",
-    "slika": "IMG_1520.JPG"
+    "slika": "babyplava2.JPG"
   },
   {
     "id": 15,
@@ -29,7 +29,7 @@
     "opis": "Victoria's Secret baby roze pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f7c6d9",
-    "slika": "IMG_1520.JPG"
+    "slika": "babyroze2.JPG"
   },
   {
     "id": 16,
@@ -37,7 +37,7 @@
     "opis": "Victoria's Secret crna pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#000000",
-    "slika": "IMG_1520.JPG"
+    "slika": "crnabez2.JPG"
   },
   {
     "id": 17,
@@ -45,15 +45,15 @@
     "opis": "Victoria's Secret crvena pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#c1121f",
-    "slika": "IMG_1520.JPG"
+    "slika": "crvena2.JPG"
   },
   {
     "id": 18,
-    "naziv": "Victoria's Secret Pidzama Crna POJAS",
+    "naziv": "Victoria's Secret Pidzama Crna P",
     "opis": "Victoria's Secret crna satenska pidžama sa pojasom",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#111111",
-    "slika": "IMG_1520.JPG"
+    "slika": "crna2.JPG"
   },
   {
     "id": 19,
@@ -61,7 +61,7 @@
     "opis": "Armani satenska pidzama braon kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#8b5e3c",
-    "slika": "IMG_1520.JPG"
+    "slika": "ombre2.JPG"
   },
   {
     "id": 20,
@@ -69,7 +69,7 @@
     "opis": "Louis Vuitton šarena pidžama sa dugim nogavicama",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#c49b66",
-    "slika": "IMG_1520.JPG"
+    "slika": "sarena2.JPG"
   },
   {
     "id": 21,
@@ -77,7 +77,7 @@
     "opis": "Victoria's Secret anđeo pidžama kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f4f1ea",
-    "slika": "IMG_1520.JPG"
+    "slika": "andjeo2.JPG"
   },
   {
     "id": 22,
@@ -85,7 +85,7 @@
     "opis": "Armani satenske pidžame u dezenu roze prugice sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#f3b6c6",
-    "slika": "IMG_1520.JPG"
+    "slika": "rozeprugice2.JPG"
   },
   {
     "id": 23,
@@ -93,7 +93,7 @@
     "opis": "Armani crne prugaste pidžame sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#2b2b2b",
-    "slika": "IMG_1520.JPG"
+    "slika": "crneprugice2.JPG"
   },
   {
     "id": 24,
@@ -101,7 +101,7 @@
     "opis": "Victoria's Secret pink pidžama sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#ff4fa3",
-    "slika": "IMG_1520.JPG"
+    "slika": "pink2.JPG"
   },
   {
     "id": 25,
@@ -109,7 +109,7 @@
     "opis": "Victoria's Secret bijela pidžama sa pojasom kratkog modela",
     "velicine": ["S", "M", "L", "XL"],
     "boja": "#ffffff",
-    "slika": "IMG_1520.JPG"
+    "slika": "bijela2.JPG"
   },
   {
     "id": 1,
